@@ -21,7 +21,7 @@ public:
 
     int findLongestChain(vector<vector<int>>& pairs) {
         int n = pairs.size();
-        vector<int> dp(n, 1);
+        vector<int> dp(n+1, 1);
 
         sort(pairs.begin(), pairs.end());
 
