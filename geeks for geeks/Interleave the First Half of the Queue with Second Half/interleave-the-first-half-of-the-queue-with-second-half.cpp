@@ -12,8 +12,8 @@ class Solution{
 public:
     vector<int> rearrangeQueue(queue<int> &q){
         int n = q.size();
-        queue<int> q1;
-        queue<int> q2;
+        queue<int> q1;          //for first half elements
+        queue<int> q2;          //for second half elements
         
         for(int i=0; i<n/2; i++){
             int element = q.front();
