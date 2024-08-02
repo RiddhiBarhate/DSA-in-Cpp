@@ -18,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0046-permutations) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
