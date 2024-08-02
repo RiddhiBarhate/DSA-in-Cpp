@@ -19,10 +19,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0046-permutations) |
+| [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
