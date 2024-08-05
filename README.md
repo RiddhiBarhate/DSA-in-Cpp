@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2163-kth-distinct-string-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
