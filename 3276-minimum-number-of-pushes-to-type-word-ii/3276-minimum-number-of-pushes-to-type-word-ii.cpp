@@ -15,6 +15,9 @@ public:
 
         //assign no
         for(int i = 0; i < 26; i++){
+            if(arr[i] == 0)
+                break;
+                
             int value = arr[i] * ((count / 8) + 1);        //as we will assign values from 2 - 9
             minPress += value;
             count++;
