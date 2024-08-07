@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0074-search-a-2d-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
