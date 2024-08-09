@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
+| [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
