@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
