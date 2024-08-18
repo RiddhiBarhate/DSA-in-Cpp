@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0443-string-compression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0443-string-compression) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
