@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Breadth-First Search
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
