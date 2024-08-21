@@ -48,7 +48,7 @@ public:
 
     // Pop from stack 2 and return popped element.
     int pop2() {
-        // Write your code here.
+        
         if(top2 < size){
             int ans = arr[top2];
             top2++;

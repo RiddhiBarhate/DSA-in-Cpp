@@ -15,7 +15,7 @@ void solve(stack<int> &s, int num){
 
 void sortStack(stack<int> &stack)
 {
-	// Write your code here
+
 	if(stack.empty())
 		return;
 

@@ -13,7 +13,7 @@ void solve(stack<int> &stack, int element){
 }
 
 void reverseStack(stack<int> &stack) {
-    // Write your code here
+   
     if (stack.empty()) {
         return;
     }
