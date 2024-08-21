@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-       int n;
-        cin>>n;
+      int n;
+      cin>>n;
 
         //step1
        vector<int> dp(n+1);
@@ -17,9 +17,8 @@ int main()
 
        //step3
        for (int i = 2; i <= n; i++) {
-         dp[i] = dp[i - 1] + dp[i - 2];
-
-         
+         dp[i] = dp[i - 1] + dp[i - 2];  
        }
+
        cout << dp[n];
 }

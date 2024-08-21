@@ -25,6 +25,6 @@ int solve(int n, vector<int> days, vector<int> cost){
 
 int minimumCoins(int n, vector<int> days, vector<int> cost)
 {
-    // Write your code here.
+    
     return solve(n,days,cost);
 }
