@@ -29,6 +29,6 @@ int solve(vector<int>& weight, vector<int>& value, int n, int capacity){
 
 int knapsack(vector<int> weight, vector<int> value, int n, int maxWeight) 
 {
-	// Write your code here
 	return solve(weight,value,n,maxWeight);
+	
 }
