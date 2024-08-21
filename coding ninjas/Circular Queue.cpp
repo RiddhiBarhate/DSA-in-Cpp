@@ -31,6 +31,7 @@ class CircularQueue{
 
     // Dequeues top element from queue. Returns -1 if the stack is empty, otherwise returns the popped element.
     int dequeue(){
+        
         if(count == 0){
             return -1;
         }
