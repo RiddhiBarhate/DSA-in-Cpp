@@ -52,6 +52,7 @@ public:
     }
 
     int front() {
+        
         if(qfront == rear){
             return -1;
         }
