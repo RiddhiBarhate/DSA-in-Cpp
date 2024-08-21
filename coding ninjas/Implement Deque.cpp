@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+
 class Deque
 {
     int *arr;
@@ -8,6 +9,7 @@ class Deque
     int count;
 
 public:
+
     // Initialize your data structure.
     Deque(int n)
     {
