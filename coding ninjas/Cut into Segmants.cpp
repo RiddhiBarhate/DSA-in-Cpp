@@ -20,6 +20,6 @@ int solve(int n, int x, int y, int z){
 }
 
 int cutSegments(int n, int x, int y, int z) {
-	// Write your code here.
+	
 		solve(n,x,y,z);
 }
