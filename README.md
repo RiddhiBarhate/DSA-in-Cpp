@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0443-string-compression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0443-string-compression) |
+| [0664-strange-printer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0664-strange-printer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Breadth-First Search
