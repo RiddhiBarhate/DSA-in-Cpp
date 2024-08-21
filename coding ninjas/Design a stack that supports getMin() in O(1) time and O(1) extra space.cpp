@@ -2,6 +2,7 @@
 class SpecialStack {
     //Here we are pushing and poping two elements 
     //one is data and another is minimum value
+    
     public:
     stack<int> s;
     void push(int data) {
