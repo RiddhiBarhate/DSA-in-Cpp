@@ -23,6 +23,6 @@ int solve(int n, int k){
 }
 
 int numberOfWays(int n, int k) {
-    // Write your code here.
+   
     return solve(n,k);
 }
