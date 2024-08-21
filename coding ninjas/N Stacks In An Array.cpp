@@ -7,6 +7,7 @@ class NStack
     
     int n, s;
     int freespot;
+    
 public:
     // Initialize your data structure.
     NStack(int N, int S)
