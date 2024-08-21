@@ -8,6 +8,7 @@ int solve(vector<int> &num, int tar){
 
         //traversing for 1 to tar
         for(int i=1; i<=tar; i++){
+            
            //traversing on num array
            for(int j=0; j<num.size(); j++){
                if(i - num[j] >=0)
