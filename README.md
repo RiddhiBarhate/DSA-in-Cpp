@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1240-stone-game-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1240-stone-game-ii) |
+| [1293-three-consecutive-odds](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
