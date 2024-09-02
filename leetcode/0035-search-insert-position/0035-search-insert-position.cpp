@@ -4,11 +4,9 @@ public:
         int s = 0;
         int e = nums.size() - 1;   
 
-        //target needs to be inserted
         if(target > nums[e])
             return nums.size();    
 
-        //target is present in array
         while(s <= e){
 
             int mid = s + (e - s)/2;
