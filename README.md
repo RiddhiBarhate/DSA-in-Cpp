@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0443-string-compression) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Graph
