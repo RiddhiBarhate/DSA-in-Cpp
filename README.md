@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0664-strange-printer) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
@@ -141,8 +145,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
@@ -256,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Graph
