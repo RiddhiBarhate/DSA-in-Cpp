@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0882-peak-index-in-a-mountain-array) |
