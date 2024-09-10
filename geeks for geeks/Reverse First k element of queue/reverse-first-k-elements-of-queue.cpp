@@ -14,7 +14,7 @@ class Solution
     
     // Function to reverse first k elements of a queue.
     queue<int> modifyQueue(queue<int> q, int k) {
-        // add code here.
+       
         stack<int> s;
         
          for(int i=0; i<k; i++){
