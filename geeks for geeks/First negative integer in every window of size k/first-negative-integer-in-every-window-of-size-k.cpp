@@ -53,8 +53,7 @@ vector<long long> printFirstNegativeInteger(long long int A[],
             }
             else{
                 ans.push_back(0);
-            }
-            
+            }   
         }
         return ans;
  }
