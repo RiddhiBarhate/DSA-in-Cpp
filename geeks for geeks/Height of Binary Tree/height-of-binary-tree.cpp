@@ -99,6 +99,7 @@ struct Node
 class Solution{
     public:
     //Function to find the height of a binary tree.
+    //Approach 1
     int height(struct Node* node){
         queue<Node*> q;
         int count = 0;
@@ -125,6 +126,17 @@ class Solution{
             
         }
         return count;
+
+        //Approach 2
+        if(node == NULL)
+            return 0;
+            
+        int left = height(node -> left);
+        int right = height(node -> right);
+        
+        int ans = max(left, right) + 1;
+        
+        return ans;
     }
 };
 
