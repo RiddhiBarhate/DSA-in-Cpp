@@ -29,7 +29,7 @@ public:
         
     }
     int maxSquare(int n, int m, vector<vector<int>> mat){
-        int maxi=0;
+        int maxi = 0;
         solve(mat,n,m,maxi);
         return maxi;
     }

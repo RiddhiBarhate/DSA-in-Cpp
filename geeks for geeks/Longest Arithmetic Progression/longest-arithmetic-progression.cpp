@@ -10,7 +10,7 @@ using namespace std;
 class Solution{   
 public:
     int lengthOfLongestAP(int A[], int n) {
-        // code here
+        
         if(n <= 2)
             return n;
             

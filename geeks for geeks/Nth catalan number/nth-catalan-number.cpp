@@ -27,7 +27,6 @@ class Solution
     
     int findCatalan(int n) 
     {
-        //code here
         return solve(n);
     }
 };

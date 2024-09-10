@@ -29,7 +29,6 @@ class Solution{
 	}
 	int MinSquares(int n)
 	{
-	    // Code here
 	    return solve(n);
 	}
 };

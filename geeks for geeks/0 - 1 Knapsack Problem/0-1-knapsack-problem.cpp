@@ -29,7 +29,6 @@ class Solution
     //Function to return max value that can be put in knapsack of capacity W.
     int knapSack(int W, int wt[], int val[], int n) 
     { 
-       // Your code here
        vector<vector<int>> dp(n, vector<int>(W+1, -1));
        return solve(W, wt, val, n, 0, dp);
     }

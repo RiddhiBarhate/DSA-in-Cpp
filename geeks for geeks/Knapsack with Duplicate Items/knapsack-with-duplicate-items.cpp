@@ -32,7 +32,6 @@ public:
     
     int knapSack(int N, int W, int val[], int wt[])
     {
-        // code here
         vector<vector<int>> dp(N+1, vector<int> (W+1, -1));
         return solve(N, W, val, wt, 0, dp);
     }
