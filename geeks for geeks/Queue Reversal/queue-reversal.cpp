@@ -13,7 +13,6 @@ class Solution
     public:
     queue<int> rev(queue<int> q)
     {
-        // add code here.
         stack<int> s;
         
         while(!q.empty()){
