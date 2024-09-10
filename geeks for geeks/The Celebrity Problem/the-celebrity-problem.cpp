@@ -32,7 +32,7 @@ class Solution
     //Function to find if there is a celebrity in the party or not.
     int celebrity(vector<vector<int> >& M, int n) 
     {
-        // code here 
+        
         stack<int> s;
         
         //step 1
