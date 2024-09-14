@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-bool solve(string& str,string& pattern , int i , int j, vector<vector<int>>&dp)
+bool solve(string &str,string &pattern , int i , int j, vector<vector<int>>&dp)
 {
     if(i<0 && j<0)
     {
