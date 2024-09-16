@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0664-strange-printer) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
+| [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0650-2-keys-keyboard) |
