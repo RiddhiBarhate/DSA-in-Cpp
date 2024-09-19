@@ -14,6 +14,7 @@ public:
         }
         return dp[n] = ans;
     }
+    
     int numTrees(int n) {
         vector<int> dp(n+1, -1);
         return solve(n, dp);
