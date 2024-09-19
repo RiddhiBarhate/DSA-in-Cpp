@@ -9,6 +9,7 @@ public:
             profit = max(profit, diff);
             mini = min(mini, prices[i]);
         }
+        
         return profit;
     }
 };

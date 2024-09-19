@@ -1,33 +1,33 @@
 class Solution {
 public:
 
-    // int solveMem(int index, int buy, int limit, vector<int>& prices, vector<vector<vector<int>>>& dp){
-    //     int n = prices.size();
-    //     if(index == n)
-    //         return 0;
+    /*int solveMem(int index, int buy, int limit, vector<int>& prices, vector<vector<vector<int>>>& dp){
+        int n = prices.size();
+        if(index == n)
+            return 0;
 
-    //     if(limit == 0)
-    //         return 0;
+        if(limit == 0)
+            return 0;
 
-    //     if(dp[index][buy][limit] != -1)
-    //         return dp[index][buy][limit];
+        if(dp[index][buy][limit] != -1)
+            return dp[index][buy][limit];
 
-    //     int profit = 0;
+        int profit = 0;
         
-    //     if(buy){
-    //         int buykaro = -prices[index] + solveMem(index+1, 0, limit, prices, dp);
-    //         int skipkaro = 0 + solveMem(index+1, 1, limit, prices, dp);
-    //         profit = max(buykaro, skipkaro);
-    //     }
-    //     else{
-    //         int sellkaro = +prices[index] + solveMem(index+1, 1, limit-1, prices, dp);
-    //         int skipkaro = 0 + solveMem(index+1, 0, limit, prices, dp);
-    //         profit = max(sellkaro, skipkaro);
-    //     }
+        if(buy){
+            int buykaro = -prices[index] + solveMem(index+1, 0, limit, prices, dp);
+            int skipkaro = 0 + solveMem(index+1, 1, limit, prices, dp);
+            profit = max(buykaro, skipkaro);
+        }
+        else{
+            int sellkaro = +prices[index] + solveMem(index+1, 1, limit-1, prices, dp);
+            int skipkaro = 0 + solveMem(index+1, 0, limit, prices, dp);
+            profit = max(sellkaro, skipkaro);
+        }
 
-    //     dp[index][buy][limit] = profit;
-    //     return dp[index][buy][limit];
-    // }
+        dp[index][buy][limit] = profit;
+        return dp[index][buy][limit];
+    }*/
 
     int solveTab(vector<int>& prices){
         int n = prices.size();
