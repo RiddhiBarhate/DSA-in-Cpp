@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0443-string-compression) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0650-2-keys-keyboard) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0273-integer-to-english-words) |
 ## Linked List
 |  |
@@ -334,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
