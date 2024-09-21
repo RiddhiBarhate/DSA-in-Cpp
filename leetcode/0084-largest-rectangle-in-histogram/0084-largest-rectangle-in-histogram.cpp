@@ -22,7 +22,7 @@ private:
         s.push(-1);
 
         vector<int> ans(n);
-        for(int i=0; i<n; i++){
+        for(int i = 0; i < n; i++){
             int curr = arr[i];
             while(s.top() != -1 && arr[s.top()] >= curr){
                 s.pop();
