@@ -1,18 +1,18 @@
 class Solution {
 public:
-    // int solveMem(vector<int>& satisfaction, int index, int time, vector<vector<int>> &dp){
-    //     if(index == satisfaction.size())
-    //         return 0;
+    /*int solveMem(vector<int>& satisfaction, int index, int time, vector<vector<int>> &dp){
+        if(index == satisfaction.size())
+            return 0;
 
-    //     if(dp[index][time] != -1)
-    //         return dp[index][time];
+        if(dp[index][time] != -1)
+            return dp[index][time];
 
-    //     int include = satisfaction[index] * (time+1) + solveMem(satisfaction, index+1, time+1, dp);
-    //     int exclude = 0 + solveMem(satisfaction, index+1, time, dp);
+        int include = satisfaction[index] * (time+1) + solveMem(satisfaction, index+1, time+1, dp);
+        int exclude = 0 + solveMem(satisfaction, index+1, time, dp);
 
-    //     dp[index][time] = max(include,exclude);
-    //     return dp[index][time];
-    // }
+        dp[index][time] = max(include,exclude);
+        return dp[index][time];
+    }*/
 
     int solveTab(vector<int>& satisfaction){
         int n = satisfaction.size();
