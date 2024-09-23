@@ -9,7 +9,7 @@ public:
         dp[1] = cost[1];
 
         // Dynamic programming
-        for (int i = 2; i < n; ++i) {
+        for (int i = 2; i < n; i++) {
             dp[i] = cost[i] + min(dp[i - 1], dp[i - 2]);
         }
 

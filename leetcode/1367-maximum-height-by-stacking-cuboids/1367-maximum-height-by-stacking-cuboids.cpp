@@ -29,6 +29,7 @@ public:
     int maxHeight(vector<vector<int>>& cuboids) {
         for(auto &i : cuboids)
             sort(i.begin(), i.end());
+            
         sort(cuboids.begin(), cuboids.end());
         return solve(cuboids);
     }

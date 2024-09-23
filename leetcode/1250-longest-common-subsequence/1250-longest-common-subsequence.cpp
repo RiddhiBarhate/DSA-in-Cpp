@@ -8,8 +8,10 @@ public:
 
         if(j==b.size())
             return 0;
+
         if(dp[i][j]!=-1)
-        return dp[i][j];
+            return dp[i][j];
+            
         int ans=0;
         if(a[i]==b[j]){
             ans=1+solve(a,b,i+1,j+1,dp);

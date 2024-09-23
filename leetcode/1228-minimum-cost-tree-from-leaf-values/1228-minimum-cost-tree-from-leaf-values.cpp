@@ -1,21 +1,21 @@
 class Solution {
 public:
 
-    // int solveMem(int x, int y, vector<int>& arr,  map<pair<int,int>, int>& maxi, vector<vector<int>>& dp){
-    //     int n = arr.size();
-    //     if(x == y)
-    //         return 0;
+    /*int solveMem(int x, int y, vector<int>& arr,  map<pair<int,int>, int>& maxi, vector<vector<int>>& dp){
+        int n = arr.size();
+        if(x == y)
+            return 0;
 
-    //     if(dp[x][y] != -1)
-    //         return dp[x][y];
+        if(dp[x][y] != -1)
+            return dp[x][y];
 
-    //     int ans = INT_MAX;
-    //     for(int i=x; i<y; i++){
-    //         ans = min(ans, maxi[{x,i}] * maxi[{i+1,y}] + solveMem(x, i, arr, maxi, dp) + solveMem(i+1, y, arr, maxi, dp));
-    //         dp[x][y] = ans;
-    //     }
-    //     return dp[x][y];
-    // }
+        int ans = INT_MAX;
+        for(int i=x; i<y; i++){
+            ans = min(ans, maxi[{x,i}] * maxi[{i+1,y}] + solveMem(x, i, arr, maxi, dp) + solveMem(i+1, y, arr, maxi, dp));
+            dp[x][y] = ans;
+        }
+        return dp[x][y];
+    }*/
 
     int solveTab(vector<int>& arr,  map<pair<int,int>, int>& maxi){
         int n = arr.size();

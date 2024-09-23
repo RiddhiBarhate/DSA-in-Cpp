@@ -9,7 +9,7 @@ public:
 
         int ans =  INT_MAX ;
         int prev1 =  nums1[index-1] ;
-        int prev2 =   nums2[index-1 ];\
+        int prev2 =   nums2[index-1 ];
 
         if(dp[index][swapped] != -1){
             return dp[index][swapped] ;
