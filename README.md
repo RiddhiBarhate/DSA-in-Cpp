@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0890-lemonade-change) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -374,4 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
