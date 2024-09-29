@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0432-all-oone-data-structure) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0432-all-oone-data-structure](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0860-design-circular-queue) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0860-design-circular-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
