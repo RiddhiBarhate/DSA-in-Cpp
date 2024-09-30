@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0860-design-circular-queue) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Graph
 |  |
 | ------- |
