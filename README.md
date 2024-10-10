@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1240-stone-game-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1256-rank-transform-of-an-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1908-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
