@@ -8,7 +8,7 @@ public:
             if(ch == '1'){
                 black++;
             }
-            else if(ch == '0'){
+            else{
                 swap += black;
             }
         }
