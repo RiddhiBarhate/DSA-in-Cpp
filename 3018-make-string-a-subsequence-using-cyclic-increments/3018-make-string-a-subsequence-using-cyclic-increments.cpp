@@ -12,6 +12,6 @@ public:
             i++;
         }
 
-        return j == m ? true : false;
+        return j == m;
     }
 };
