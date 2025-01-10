@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
+| [0952-word-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
