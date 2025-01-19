@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0624-maximum-distance-in-arrays) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0999-regions-cut-by-slashes) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0921-spiral-matrix-iii) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
