@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0567-permutation-in-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0204-count-primes) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0539-minimum-time-difference) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1502-construct-k-palindrome-strings) |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
