@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0824-number-of-lines-to-write-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0787-sliding-puzzle) |
+| [0824-number-of-lines-to-write-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0824-number-of-lines-to-write-string) |
 | [0854-making-a-large-island](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0860-design-circular-queue) |
