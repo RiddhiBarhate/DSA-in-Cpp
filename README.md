@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1651-shuffle-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1651-shuffle-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1694-make-sum-divisible-by-p) |
