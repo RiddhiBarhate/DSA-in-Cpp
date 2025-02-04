@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
