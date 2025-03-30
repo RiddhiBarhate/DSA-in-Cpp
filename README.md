@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0906-walking-robot-simulation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0664-strange-printer) |
+| [0768-partition-labels](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0824-number-of-lines-to-write-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiBarhate/DSA-in-Cpp/tree/master/0957-minimum-add-to-make-parentheses-valid) |
